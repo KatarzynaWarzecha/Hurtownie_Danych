@@ -1,0 +1,1 @@
+create synonym FactSales for [projekt].[dbo].[FactSales];
